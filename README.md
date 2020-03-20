@@ -10,4 +10,4 @@ Currently written in 'C' Language with array as the primary data-structure, the 
 --> Once a process terminates the PID manager may assign its pid to new process.
 
 # Minimum and Maximum PID's can be edited and used accordingly.
-# (Sleeping for a random period of time approximates the typical pid usage in which a pid is assigned to a new process,
+# Sleeping for a random period of time approximates the typical pid usage in which a pid is assigned to a new process
